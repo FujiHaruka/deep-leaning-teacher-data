@@ -1,0 +1,21 @@
+{
+  "name": "deep-leaning-teacher-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --content-base public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^1.13.1",
+    "webpack-hot-middleware": "^2.12.0"
+  },
+  "devDependencies": {
+    "file-loader": "^0.9.0",
+    "url-loader": "^0.5.7"
+  }
+}

@@ -1,0 +1,16 @@
+input[type="radio"] , input[type="checkbox"]{
+   -webkit-transform: scale(8);
+   transform: scale(8);
+}
+
+.img-checkbox {
+    margin-left: 20px;
+    margin-top: 10px;
+    position: relative;
+}
+
+.img-checkbox input {
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
